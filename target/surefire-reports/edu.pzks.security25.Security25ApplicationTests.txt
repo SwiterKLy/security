@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.pzks.security25.Security25ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.269 s -- in edu.pzks.security25.Security25ApplicationTests
